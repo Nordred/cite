@@ -1,1 +1,1 @@
-{"name": "Лесногорск — карта", "short_name": "Лесногорск", "start_url": "./index.html", "scope": "./", "display": "standalone", "background_color": "#173a33", "theme_color": "#173a33", "icons": [{"src": "icon.png", "sizes": "512x512", "type": "image/png"}]}
+{"name": "Лесногорск — карта", "short_name": "Лесногорск", "start_url": "./index.html", "scope": "./", "display": "standalone", "background_color": "#121825", "theme_color": "#121825", "icons": [{"src": "icon.png", "sizes": "512x512", "type": "image/png"}]}
